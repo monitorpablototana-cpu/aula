@@ -1,0 +1,14 @@
+AULA EN CALMA — PASOS MINIMOS
+
+1. Extrae AulaEnCalma_GitHub.zip.
+2. En github.com/new, crea un repositorio PRIVADO vacío.
+3. Add file > Upload files: arrastra el CONTENIDO de la carpeta extraída.
+   Comprueba que también se ha subido la carpeta .github/workflows.
+4. Pulsa Commit changes.
+5. Actions > Construir APK > Run workflow (si no arranca automáticamente).
+6. Cuando aparezca la marca verde, entra en la ejecución y descarga
+   AulaEnCalma-APK; extrae el archivo app-debug.apk y cópialo al móvil.
+7. Instala el APK, concede micrófono, y pulsa Iniciar vigilancia.
+
+La aplicación funciona sin Android Studio y sin cuenta de Google Play.
+Importante: lee README.md si el móvil restringe la batería o el volumen.
